@@ -1,0 +1,4 @@
+#!/bin/bash
+
+date +"%H:%M %d/%m/%Y"
+echo $PATH
